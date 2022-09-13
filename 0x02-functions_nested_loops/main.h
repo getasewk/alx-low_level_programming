@@ -1,6 +1,3 @@
-#ifndef FILE_MAIN
-#define FILE_MAIN
-
 void print_alphabet(void);
 
 void print_alphabet_x10(void);
